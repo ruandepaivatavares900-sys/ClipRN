@@ -1,0 +1,10 @@
+ClipRN/
+├── index.html        (Login)
+├── cadastro.html     (Criar conta)
+├── painel.html       (Painel principal)
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── imagens/
+    └── logo.png
